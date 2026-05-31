@@ -771,7 +771,7 @@ You can apply the theme on any DOM node, not just the `body`
 
 ## OUTPUT:
 
-<img width="724" height="475" alt="image" src="https://github.com/user-attachments/assets/c5ffd655-93b6-4a10-897e-90e2f3881a9f" />
+<img width="1005" height="662" alt="image" src="https://github.com/user-attachments/assets/678cae72-7e80-4807-b1d9-6df0d1560d3a" />
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
